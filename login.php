@@ -4,7 +4,7 @@
   <tbody>
   <tr><td>ID</td><td> : <input name="id" type="text"></td></tr>
   <tr><td>Password</td><td> : <input name="pass" type="password"></td></tr>
-  <tr><td colspan="2" align="right"><input value="Login" type="submit"> <input value="Batal" type="reset" ></td></tr>
+  <tr><td colspan="2" align="right"><input name="submit" value="Login" type="submit"> <input value="Batal" type="reset" ></td></tr>
   <tr><td colspan="2" align="center">Belum punya akun ? <a href="registrasi.php"><b>Daftar</b></a></td></tr>
   </tbody>
   </table>
